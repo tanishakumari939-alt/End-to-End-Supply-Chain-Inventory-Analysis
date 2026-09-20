@@ -56,3 +56,106 @@ The main objective of this project is to transform supply chain data into meanin
 - 💡 Support data-driv
 ```
 
+````markdown
+## 📈 Key Performance Indicators
+
+| KPI | Purpose |
+|---|---|
+| 🏭 **Warehouse Utilization** | Measures how efficiently warehouse capacity is being used |
+| 📅 **Days Sales of Inventory** | Indicates how many days inventory remains before being sold |
+| 🔄 **Inventory Turnover Ratio** | Measures how frequently inventory is sold/replaced |
+| 🚚 **Transportation Cost** | Tracks logistics and transportation expenses |
+| 📦 **Units Sold** | Measures product sales volume |
+| ⏱️ **Lead Time** | Measures the time required to fulfill orders |
+| ⚠️ **Backorders** | Tracks orders that cannot be fulfilled immediately |
+| 📊 **Inventory Level** | Monitors available inventory |
+
+---
+
+## 🔍 Analysis Areas
+
+### 📦 Inventory Analysis
+
+Analyze:
+
+- Inventory levels
+- Inventory turnover
+- Days Sales of Inventory
+- Product/category performance
+- Potential inventory shortages
+
+### 🏭 Warehouse Analysis
+
+Evaluate:
+
+- Warehouse utilization
+- Inventory distribution
+- Capacity efficiency
+- Regional warehouse performance
+
+### 🚚 Transportation Analysis
+
+Analyze:
+
+- Transportation costs
+- Logistics performance
+- Regional transportation patterns
+- Cost-related trends
+
+### 📈 Sales Analysis
+
+Explore:
+
+- Units sold
+- Product categories
+- Regional sales
+- Year-wise performance
+- Order status
+
+### ⏱️ Lead Time Analysis
+
+Track:
+
+- Average lead time
+- Order fulfillment patterns
+- Regional differences
+- Potential supply-chain delays
+
+### ⚠️ Backorder Analysis
+
+Identify:
+
+- Backordered products
+- Regions with higher backorders
+- Inventory-related fulfillment issues
+- Areas requiring inventory planning
+
+---
+
+## 🛠️ Tools & Technologies
+
+| Tool | Purpose |
+|---|---|
+| 📊 **Power BI** | Dashboard development & visualization |
+| 🧮 **DAX** | KPI calculations and measures |
+| 📑 **Power Query** | Data cleaning & transformation |
+| 📊 **Data Modeling** | Building relationships between data |
+| 🗂️ **Excel/CSV** | Data source & preparation |
+| 🐙 **GitHub** | Project documentation & version control |
+
+---
+
+## 🔄 Data Analysis Workflow
+
+```mermaid
+flowchart LR
+    A[📂 Raw Data] --> B[🧹 Data Cleaning]
+    B --> C[🔄 Data Transformation]
+    C --> D[🗃️ Data Modeling]
+    D --> E[🧮 DAX Measures]
+    E --> F[📊 Power BI Visualizations]
+    F --> G[🔍 Interactive Analysis]
+    G --> H[💡 Bu]()
+````
+
+
