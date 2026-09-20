@@ -55,11 +55,6 @@ The main objective of this project is to transform supply chain data into meanin
 ```
 
 
-
-```
-
-
-
 ## 🃏 KPI Indicators
 
 The **Inventory & Supply Chain Management Analysis** dashboard uses key performance indicators to monitor inventory efficiency, warehouse utilization, transportation performance, and overall supply-chain operations.
@@ -348,9 +343,3 @@ Supply Chain
 * 📊 KPI Development
 
 ```
-
-
-
-
-
-
