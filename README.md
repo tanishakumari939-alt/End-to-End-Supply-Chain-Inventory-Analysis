@@ -27,9 +27,8 @@ An interactive Power BI dashboard for analyzing inventory performance, warehouse
 
 <p align="center">
 
-<img src="Dashboard/Inventory_Supply_Chain_Dashboard.png" 
-     alt="Inventory Supply Chain Dashboard"
-     width="900">
+<img width="875" height="479" alt="image" src="https://github.com/user-attachments/assets/f32f8d09-400d-4de7-9caa-7283d2b35775" />
+
 
 </p>
 
