@@ -32,9 +32,7 @@ An interactive Power BI dashboard for analyzing inventory performance, warehouse
 
 </p>
 
-> 💡 **Tip:** Upload your dashboard screenshot to the `Dashboard` folder with the exact filename:
->
-> `Inventory_Supply_Chain_Dashboard.png`
+
 
 ---
 
