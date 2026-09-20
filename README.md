@@ -58,49 +58,38 @@ The main objective of this project is to transform supply chain data into meanin
 
 
 
-```markdown
-
-## 📊 Dashboard Components
-
-### 🃏 KPI Cards
-
-The dashboard includes the following key performance indicators:
-
-- 📦 **Total Inventory**
-- 🔄 **Inventory Turnover**
-- ⏱️ **Average Lead Time**
-- 🚚 **Transportation Cost**
-- 🏭 **Warehouse Utilization**
-
----
-
-### 📊 Charts & Visualizations
-
-The dashboard provides multiple visualizations for detailed analysis:
-
-- 📦 **Inventory by Category**
-- 🌍 **Inventory by Region**
-- 🚚 **Transportation Cost by Region**
-- 🏭 **Warehouse Utilization**
-- ⏱️ **Lead Time Analysis**
-- ⚠️ **Backorder Analysis**
-
----
-
-### 🎛️ Interactive Filters
-
-Users can dynamically filter and explore the dashboard using:
-
-- 🌍 **Region**
-- 📦 **Category**
-- 🛍️ **Product**
-- 🏭 **Warehouse**
-- 📅 **Date**
-
-These interactive filters allow users to analyze inventory and supply-chain performance from different business perspectives.
 ```
 
----
+
+
+## 🃏 KPI Indicators
+
+The **Inventory & Supply Chain Management Analysis** dashboard uses key performance indicators to monitor inventory efficiency, warehouse utilization, transportation performance, and overall supply-chain operations.
+
+| 🃏 KPI Indicator | 📌 Description |
+|---|---|
+| 📦 **Total Inventory** | Total inventory available across products and warehouses. |
+| 🔄 **Inventory Turnover Ratio** | Measures how efficiently inventory is sold or utilized. |
+| ⏱️ **Average Lead Time** | Average time required for inventory to move through the supply chain. |
+| 🚚 **Transportation Cost** | Total cost associated with transporting goods. |
+| 🏭 **Warehouse Utilization** | Percentage of available warehouse capacity being utilized. |
+| ⚠️ **Backorders** | Tracks orders that cannot be fulfilled immediately due to insufficient inventory. |
+| 📊 **Average Inventory** | Average inventory maintained during the analysis period. |
+| 📅 **Days Sales of Inventory (DSI)** | Measures the average number of days inventory remains before being sold or used. |
+
+### 🎯 KPI Purpose
+
+These KPI indicators help evaluate:
+
+- 📦 Inventory efficiency
+- 🔄 Stock movement
+- 🏭 Warehouse capacity utilization
+- 🚚 Transportation performance
+- ⏱️ Supply-chain efficiency
+- ⚠️ Backorder levels
+- 📊 Overall operational performance
+
+
 
 
 ## 🔍 Analysis Areas
