@@ -150,14 +150,13 @@ Identify:
 ## 🔄 Data Analysis Workflow
 
 ```mermaid
-flowchart LR
+flowchart TD
     A[📂 Raw Data] --> B[🧹 Data Cleaning]
     B --> C[🔄 Data Transformation]
     C --> D[🗃️ Data Modeling]
     D --> E[🧮 DAX Measures]
     E --> F[📊 Power BI Visualizations]
     F --> G[🔍 Interactive Analysis]
-    G --> H[💡 Bu]()
 ````
 
 
