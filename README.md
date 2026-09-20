@@ -51,7 +51,10 @@ The main objective of this project is to transform supply chain data into meanin
 - 📈 Analyze units sold
 - 🌍 Compare regional performance
 - 📊 Track order status
-- 💡 Support data-driv
+- 💡 Support data-drive
+```
+
+
 ```
 
 
@@ -82,68 +85,63 @@ These KPI indicators help evaluate:
 - ⚠️ Backorder levels
 - 📊 Overall operational performance
 
-
-
-
 ## 🔍 Analysis Areas
 
 ### 📦 Inventory Analysis
 
 Analyze:
 
-- Inventory levels
-- Inventory turnover
-- Days Sales of Inventory
-- Product/category performance
-- Potential inventory shortages
+- 📊 Inventory levels
+- 🔄 Inventory turnover
+- 📅 Days Sales of Inventory (DSI)
+- 🛍️ Product and category performance
+- ⚠️ Potential inventory shortages
 
 ### 🏭 Warehouse Analysis
 
 Evaluate:
 
-- Warehouse utilization
-- Inventory distribution
-- Capacity efficiency
-- Regional warehouse performance
+- 🏭 Warehouse utilization
+- 📦 Inventory distribution
+- 📊 Capacity efficiency
+- 🌍 Regional warehouse performance
 
 ### 🚚 Transportation Analysis
 
 Analyze:
 
-- Transportation costs
-- Logistics performance
-- Regional transportation patterns
-- Cost-related trends
+- 💰 Transportation costs
+- 🚛 Logistics performance
+- 🌍 Regional transportation patterns
+- 📈 Cost-related trends
 
 ### 📈 Sales Analysis
 
 Explore:
 
-- Units sold
-- Product categories
-- Regional sales
-- Year-wise performance
-- Order status
+- 🛒 Units sold
+- 📦 Product categories
+- 🌍 Regional sales
+- 📅 Year-wise performance
+- 📋 Order status
 
 ### ⏱️ Lead Time Analysis
 
 Track:
 
-- Average lead time
-- Order fulfillment patterns
-- Regional differences
-- Potential supply-chain delays
+- ⏱️ Average lead time
+- 📦 Order fulfillment patterns
+- 🌍 Regional differences
+- ⚠️ Potential supply-chain delays
 
 ### ⚠️ Backorder Analysis
 
 Identify:
 
-- Backordered products
-- Regions with higher backorders
-- Inventory-related fulfillment issues
-- Areas requiring inventory planning
-
----
+- 📦 Backordered products
+- 🌍 Regions with higher backorders
+- ⚠️ Inventory-related fulfillment issues
+- 📊 Areas requiring improved inventory planning
 
 ## 🛠️ Tools & Technologies
 
