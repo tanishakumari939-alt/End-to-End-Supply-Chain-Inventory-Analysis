@@ -349,8 +349,6 @@ Supply Chain
 
 ```
 
-This version is formatted so the **tables, Mermaid workflow, formulas, repository structure, and headings render cleanly on GitHub**.
-```
 
 
 
