@@ -61,14 +61,16 @@ The main objective of this project is to transform supply chain data into meanin
 
 | KPI | Purpose |
 |---|---|
-| 🏭 **Warehouse Utilization** | Measures how efficiently warehouse capacity is being used |
-| 📅 **Days Sales of Inventory** | Indicates how many days inventory remains before being sold |
-| 🔄 **Inventory Turnover Ratio** | Measures how frequently inventory is sold/replaced |
-| 🚚 **Transportation Cost** | Tracks logistics and transportation expenses |
-| 📦 **Units Sold** | Measures product sales volume |
-| ⏱️ **Lead Time** | Measures the time required to fulfill orders |
-| ⚠️ **Backorders** | Tracks orders that cannot be fulfilled immediately |
-| 📊 **Inventory Level** | Monitors available inventory |
+- | 🏭 **Warehouse Utilization** | Measures how efficiently warehouse capacity is being used |
+- | 📅 **Days Sales of Inventory** | Indicates how many days inventory remains before being sold |
+- | 🔄 **Inventory Turnover Ratio** | Measures how frequently inventory is sold/replaced |
+- | 🚚 **Transportation Cost** | Tracks logistics and transportation expenses |
+- | 📦 **Units Sold** | Measures product sales volume |
+- | ⏱️ **Lead Time** | Measures the time required to fulfill orders |
+- | ⚠️ **Backorders** | Tracks orders that cannot be fulfilled immediately |
+- | 📊 **Inventory Level** | Monitors available inventory |
+
+````
 
 ---
 
